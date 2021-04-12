@@ -1,4 +1,3 @@
-import "./styles.css";
 
 const videoContainer = document.getElementById("jsVideoContainer");
 const controlbar = document.querySelector(".videoControls");
